@@ -27,17 +27,6 @@ Soy un desarrollador enfocado en crear soluciones digitales que aporten valor re
 
 ---
 
-### 🛠️ Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías | Links |
-| :--- | :--- | :--- | :--- |
-| **La Guía Veterinaria** | Directorio profesional con integración de Google Analytics 4 para métricas de usuario. | React, MUI, GA4 | [🌐 Live](https://www.laguiaveterinaria.com.ar/) |
-| **Batuk E-commerce** | Aplicación de comercio electrónico con manejo de estado y API dinámica. | JS, Sass, MockAPI | [🌐 Live](https://batuk.netlify.app/) • [📂 Repo](https://github.com/fabiandasilva/ecommerce-app) |
-| **Talent Week** | Landing page de alto impacto para evento de CoderHouse. | React, Styled Comp. | [🌐 Live](https://talent-week.netlify.app/) |
-| **El Malacara** | Desarrollo web institucional para PyME, optimizando su presencia digital. | HTML, CSS, JS | [🌐 Live](https://el-malacara.netlify.app/) |
-
----
-
 ### 🌐 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiandasilva/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasilvafabian.j@gmail.com)

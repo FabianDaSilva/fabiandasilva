@@ -40,12 +40,12 @@ Soy un desarrollador enfocado en crear soluciones digitales que aporten valor re
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FabianDaSilva&show_icons=true&theme=radical&hide_border=true" alt="Fabian Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianDaSilva&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabianDaSilva&theme=radical" alt="Estadísticas de Fabian" width="100%" />
 </p>
+
 
 ---
 
 ### 🌐 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiandasilva/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasilvafabian.j@gmail.com)

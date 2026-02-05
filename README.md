@@ -38,14 +38,6 @@ Soy un desarrollador enfocado en crear soluciones digitales que aporten valor re
 
 ---
 
-### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabianDaSilva&theme=github" alt="Estadísticas de Fabian" width="100%" />
-</p>
-
-
----
-
 ### 🌐 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiandasilva/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasilvafabian.j@gmail.com)

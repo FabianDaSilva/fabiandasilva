@@ -40,7 +40,7 @@ Soy un desarrollador enfocado en crear soluciones digitales que aporten valor re
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabianDaSilva&theme=radical" alt="Estadísticas de Fabian" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabianDaSilva&theme=github" alt="Estadísticas de Fabian" width="100%" />
 </p>
 
 
